@@ -1,0 +1,19 @@
+GET http://localhost:8080/hero/arny
+###
+
+GET http://localhost:8080/hero/rocky
+###
+
+GET http://localhost:8080/gethero/arny
+###
+
+GET http://localhost:8080/heroes
+###
+
+
+POST http://localhost:8080/heroes
+Content-Type: application/json
+{
+"name": "Arny"
+}
+###
