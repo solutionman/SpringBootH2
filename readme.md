@@ -9,7 +9,7 @@ url for connection with IDEA
 jdbc:h2:mem:testdb
 
 to add hero to DB:
-http://localhost:8080/hero/ann
+http://localhost:8080/hero/arny
 
 to find hero
 http://localhost:8080/gethero/arny
